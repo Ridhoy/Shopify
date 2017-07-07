@@ -1,0 +1,390 @@
+/*Custom Style here*/
+
+#language{
+    margin-bottom: 13px;
+}
+.logo{
+    margin-top: 15px;
+}
+.login_list{}
+.login_list ul{
+    list-style: none;
+    
+}
+.login_list ul li{
+    float: left;
+    padding-left: 9px;
+}
+.login_list ul li a{
+    text-decoration: none;
+    color: black;
+}
+.login_list ul li a:hover{}
+#header{
+    background: #F7F7F9;
+    opacity: .9;
+}
+.custom_nav{
+background: none;
+    border: none;
+    margin-bottom: 0px;
+    font-weight: bold;
+    padding-left: 39px;
+}
+.border_bottom{
+    border-bottom: 3px solid #E7E7E7;
+}
+.search{
+    list-style: none;
+    margin-bottom: 0px !important;
+}
+.srchshr ul li a{
+    color: black !important;
+}
+.srch{
+    float: left;
+    padding: 14px;
+    border-left: 3px solid #E7E7E7;
+    border-right: 3px solid #E7E7E7;
+    height: 50px;
+    
+}
+.srch2{
+    float: left;
+    padding: 14px;
+    height: 50px;
+    border-right: 3px solid #E7E7E7;
+}
+.shopit{
+        position: absolute;
+    top: 34%;
+    left: 13%;
+    font-family: 'Oswald', sans-serif;
+}
+.shopit h1{
+    font-size: 45px;
+    padding-bottom: 60px;
+    line-height: 60px;
+    margin-top: -51px;
+}
+.custom_carousal{
+    background-image: none !important;
+}
+.shp_btn{
+    background-color: white !important;
+    border: 2px solid#898989;
+    height: 47px;
+    margin-left: 28%;
+    margin-top: -6px;
+    padding: 1px 42px 1px;
+    color: #3C3C3C;
+    font-family: 'Oswald', sans-serif;
+}
+.shp_btn:hover{
+    background-color: gray !important;
+    border: 2px solid#898989;
+    height: 47px;
+    margin-left: 28%;
+    margin-top: -6px;
+    padding: 1px 42px 1px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+.office_img{
+    position: relative;
+    margin-top: 50px;
+    min-height: 200px;
+    width: 100%;
+    
+
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.office_img img{
+    width: 100%;
+    
+}
+.office_img:hover{
+    transform: scale(1.1);
+}
+.style1{
+    font-size: 30px;
+}
+.style2{
+    font-size: 105px;
+}
+.office_word{
+    position: absolute;
+    color: white;
+    text-align: center;
+    left: 22%;
+    top: 45%;
+}
+.title h1{
+    margin-top: 95px;
+        font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+}
+.title p{
+    margin-top: 20px;
+}
+.sale{
+    display: inline-block;
+    position: relative;
+}
+.sale::before {
+    content: attr(data-caption);
+    padding: 4px 12px;
+    background-color: #FF8A8D;
+    color: #fff;
+    position: absolute;
+    top: 0px;
+    border-radius: 4px;
+    font-family: arial;
+    right: 0;
+    cursor: pointer;
+    font-family: 'Oswald', sans-serif;
+}
+.items{
+    margin-top: 95px;
+}
+.items1{
+    margin-top: -340px;
+}
+.title{
+    margin-bottom: 53px;
+}
+.btn0{
+        padding: 8px 64px 4px;
+    background-color: #555555;
+    border-radius: none;
+    border: 1px solid #555555;
+    color: white;
+}
+#contact_area{
+    background-color: #efeeee;
+    margin-top: 20px;
+}
+.bold{
+    font-family: 'Oswald', sans-serif;
+
+}
+.form{
+        height: 38px;
+    padding: 15px 15px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+}
+.mrgn{
+    border-left: 1px solid gray;
+    padding-left: 50px;
+    height: 250px;
+}
+#top_footer{
+    margin-top: 40px;
+}
+#bottom_bottom{
+    border-top: 1px solid gray;
+    margin-top: 25px;
+}
+.img00{
+margin-top: 25px;
+}
+.last{
+ margin-top: 25px;   
+}
+.kala{
+        padding-top: 35px;
+    padding-bottom: 35px;
+}
+.kala h4{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold; 
+}
+.social ul{
+    padding-left: 0px;
+}
+.social ul li{
+    list-style:none;
+    float: left;
+    padding-left: 35px;
+}
+.social ul li a{
+    color: black;
+}
+.social ul li:nth-child(1){
+    padding-left: 0px;
+}
+
+.mail{
+    height: 34px;
+    
+}
+.mail_btn{
+    margin-left: -4px;
+    border-radius:0px;
+    margin-bottom: 3px;
+}
+.kala2{
+    
+}
+.kala2 h4{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    
+}
+.kala3 h4{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    padding-left: 35px;
+}
+.kala2 a{
+    text-decoration: none;
+    color: black;
+}
+.imgsize{
+    width: 135px;
+}
+.social{
+    padding-top: 20px;
+}
+.social2 ul{
+    padding-left: 0px;
+}
+.social2 ul li{
+    list-style:none;
+    float: left;
+    padding-left: 5px;
+}
+.social2 ul li a{
+    color: black;
+}
+.social2 ul li:nth-child(1){
+    padding-left: 55px;
+}
+.terms a{
+    text-decoration: none;
+    color: black;
+}
+.shongroho_list {
+    margin-bottom: 60px;
+    margin-top: 25px
+}
+
+.shongroho_list>ul {
+    list-style: none
+}
+
+.shongroho_list>ul>li {
+    float: left;
+    padding-left: 65px;
+    font-family: "lato-Medium";
+    padding: 0px 95px 0px 45px
+}
+
+.shongroho_list>ul>li>input {
+    width: 35px;
+    height: 20px;
+}
+#banner{
+    background-image: url(../images/slide.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.product_titles{
+    color: white;
+}
+.left_side {
+    min-height: 50px;
+}
+
+.search>h2 {
+    font-family: "lato-bold";
+    font-size: 25px
+}
+.categories {
+    margin-top: 50px;
+}
+
+.categories>h2 {
+    font-family: "lato-bold";
+    font-size: 25px
+}
+
+.categories>ul {
+    list-style: none;
+    margin-left: -38px
+}
+
+.categories>ul>li {
+    padding-top: 15px
+}
+
+.categories>ul>li>a {
+    text-decoration: none;
+    color: #797A7A;
+    font-family: "lato-bold";
+}
+
+.categories>ul>li>a:hover {
+    color: #3C3C3C;
+    font-family: "lato-bold";
+}
+.recentpost {
+    margin-top: 55px;
+}
+
+.recentpost>h2 {
+    font-family: "lato-bold";
+    font-size: 25px
+}
+
+.recentpost>ul {
+    list-style: none;
+    margin-left: -38px
+}
+
+.recentpost>ul>li {
+    padding-top: 15px
+}
+
+.recentpost>ul>li>a {
+    text-decoration: none
+}
+.counter {
+    float: right;
+    margin-right: 36px;
+}
+.discrip {
+    float: right;
+    margin-right: 40px;
+    margin-top: 5px;
+    font-family: "lato-Semibold";
+}
+.customsearch {
+    margin-left: -15px;
+    margin-top: 40px;
+}
+
+.customform {
+    height: 45px
+}
+
+.custombtn {
+    height: 45px
+}
+
+.customform {
+    border-radius: 0px
+}
+
+.custombtn {
+    border-radius: 0px;
+    background-image: none;
+    background-color: #353E47;
+    color: white
+}
